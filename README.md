@@ -26,7 +26,7 @@
   <img src="anime.gif" alt="Anime GIF">
 </div>
 
-<br>
+<br><br>
 <!-- Tech Stacks -->
 <div align="center">
   
