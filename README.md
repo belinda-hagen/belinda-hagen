@@ -30,7 +30,8 @@
 <!-- Tech Stacks -->
 <div align="center">
   
-## ⋆⁺₊⋆ ☾⋆⁺₊⋆˗ˏˋ ★ ˎˊ˗ Tech Stack ˗ˏˋ ★ ˎˊ˗⋆⁺₊⋆ ☾⋆⁺₊⋆
+## ♡ 🌸 ✧˚₊‧⁺˖ Tech Stack ˖⁺‧₊˚✧ 🌸 ♡
+
 </div>
 
 <div align="center">
@@ -64,7 +65,7 @@
 <!-- Snake -->
 <div align="center">
   
-## ⋆⁺₊⋆ ☾⋆⁺₊⋆˗ˏˋ ★ ˎˊ˗ Stats ˗ˏˋ ★ ˎˊ˗⋆⁺₊⋆ ☾⋆⁺₊⋆
+## ♡ 🌸 ✧˚₊‧⁺˖ Stats ˖⁺‧₊˚✧ 🌸 ♡
 </div>
 
 <div align="center">
@@ -85,7 +86,7 @@
 <!-- Social -->
 <div align="center">
   
-## ⋆⁺₊⋆ ☾⋆⁺₊⋆˗ˏˋ ★ ˎˊ˗ Connect with me ˗ˏˋ ★ ˎˊ˗⋆⁺₊⋆ ☾⋆⁺₊⋆
+## ♡ 🌸 ✧˚₊‧⁺˖ Connect with me ˖⁺‧₊˚✧ 🌸 ♡
 </div>
 
 <div align="center">
