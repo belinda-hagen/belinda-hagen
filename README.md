@@ -69,18 +69,20 @@
 </div>
 
 <div align="center">
-    
-  ![snake gif](https://github.com/belinda-hagen/belinda-hagen/blob/output/github-snake-dark.svg)
+  
+  ![snake gif](https://github.com/belinda-hagen/test/blob/output/pink-purple.gif)
 </div>
 
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belinda-hagen&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belinda-hagen&theme=radical&hide_border=true" width="50%" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belinda-hagen&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=belinda-hagen&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=belinda-hagen&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="50%" /> </br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belinda-hagen&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
-
 
 <br>
 <!-- Social -->
@@ -95,3 +97,12 @@
 </div>
 
 --------------
+
+
+
+
+
+
+
+
+
