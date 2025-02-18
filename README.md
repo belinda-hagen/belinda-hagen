@@ -70,7 +70,7 @@
 
 <div align="center">
   
-  ![snake gif](https://github.com/belinda-hagen/test/blob/output/pink-purple.gif)
+  ![snake gif](https://github.com/belinda-hagen/belinda-hagen/blob/output/pink-purple.gif)
 </div>
 
 
