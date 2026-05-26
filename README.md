@@ -106,7 +106,7 @@
 
 𝐸𝓂𝒶𝒾𝓁 /  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belinda.hagen44@gmail.com) 
 
-𝒫𝑜𝓇𝓉𝒻𝑜𝓁𝒾𝑜 / [![Portfolio](https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logoColor=white)](https://belinda-hagen.github.io/Portfolio/) 
+𝒫𝑜𝓇𝓉𝒻𝑜𝓁𝒾𝑜 / [![Portfolio](https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logoColor=white)](bhagen.netlify.app) 
 
 </div><br>
 
