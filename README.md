@@ -72,8 +72,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
-<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign">
+<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Cloud">
 
 </div>
 
